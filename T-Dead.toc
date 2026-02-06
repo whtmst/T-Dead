@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: [ |cFFFFFFFFWM|r ] |cFF11A6ECT-Dead|r |cFF7FFF7Fv1.0|r
+## Notes: |cFF11A6ECT-Dead|r - Воспроизводит случайную звуковую фразу при смерти персонажа в рейдовых зонах.
+## Author: Mikhail Palagin (Wht Mst)
+## Version: 1.0
+## Made for |cff00ff00Turtle WoW|r with love by Wht Mst.
+
+T-Dead.lua
